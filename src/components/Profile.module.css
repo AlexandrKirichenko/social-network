@@ -1,0 +1,9 @@
+
+.profile {
+  grid-area: p;
+  background-color: #9eb0d2;
+}
+
+.item {
+  color: rgb(229, 245, 6);
+}
