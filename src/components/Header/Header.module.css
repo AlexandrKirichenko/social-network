@@ -1,6 +1,10 @@
 .header {
   grid-area: h;
+<<<<<<< HEAD
   background-color:	#dfe3ee;
+=======
+  background-color:	#e2c794;
+>>>>>>> v2
 }
 .header img{
   width: 50px;
